@@ -231,7 +231,6 @@ chăng chắc
 chăng nữa
 chơi
 chơi họ
-chưa
 chưa bao giờ
 chưa chắc
 chưa có
@@ -604,9 +603,7 @@ khó nghĩ
 khó nói
 khó thấy
 khó tránh
-không
 không ai
-không bao giờ
 không bao lâu
 không biết
 không bán
