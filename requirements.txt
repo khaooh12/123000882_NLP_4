@@ -1,0 +1,9 @@
+streamlit>=1.30.0
+pandas>=2.0.0
+underthesea>=6.6.0
+wordcloud>=1.9.0
+matplotlib>=3.7.0
+plotly>=5.18.0
+langdetect>=1.0.9
+openpyxl>=3.1.2
+pytest>=8.0.0
